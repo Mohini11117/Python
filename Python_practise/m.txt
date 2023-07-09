@@ -1,0 +1,4 @@
+'python is object orriented\n'
+'python is easy to learn\n'
+"Python support varriable \n", 
+"Python code is Readable\n"
